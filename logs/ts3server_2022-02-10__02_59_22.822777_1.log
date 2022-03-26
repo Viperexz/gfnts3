@@ -1,0 +1,49 @@
+2022-02-10 02:59:23.550251|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-02-10 03:12:25.318422|INFO    |VirtualServer |1  |client 'SLR. ZaLszaLc'(id:19) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-10 04:02:57.580809|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-02-10 04:02:57.581425|INFO    |PktHandler    |1  |Dropping client 4 because of resend timeout
+2022-02-10 04:38:54.654612|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2022-02-10 04:38:54.654821|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2022-02-10 04:42:18.841544|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2022-02-10 04:42:18.841876|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
+2022-02-10 05:12:12.282841|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2022-02-11 02:13:17.615497|INFO    |VirtualServer |1  |client 'CD.Ibañezzzzzzzz'(id:4) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-11 02:23:30.273233|INFO    |VirtualServer |1  |client 'C3.Gavilano'(id:22) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-11 03:59:47.254830|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-11 03:59:47.256516|INFO    |PktHandler    |1  |Dropping client 22 because of resend timeout
+2022-02-11 04:01:41.164224|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-11 04:01:41.164942|INFO    |PktHandler    |1  |Dropping client 23 because of resend timeout
+2022-02-11 04:02:24.964953|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-11 04:02:24.965100|INFO    |PktHandler    |1  |Dropping client 24 because of resend timeout
+2022-02-12 02:07:42.268330|INFO    |VirtualServer |1  |client 'SLP.Maya'(id:7) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-17 02:02:27.234231|INFO    |VirtualServer |1  |client 'Tomas'(id:18) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'Delta'(id:5)
+2022-02-17 02:02:31.094031|INFO    |VirtualServer |1  |client 'DG. Goez (GFN)'(id:6) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-17 02:02:33.068946|INFO    |VirtualServer |1  |client 'Lopez'(id:15) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-17 02:02:38.175403|INFO    |VirtualServer |1  |client 'C3.Chaustre'(id:8) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-17 04:18:35.642355|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-02-17 04:18:35.642894|INFO    |PktHandler    |1  |Dropping client 51 because of resend timeout
+2022-02-17 05:16:30.501725|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-17 05:16:30.503869|INFO    |PktHandler    |1  |Dropping client 47 because of resend timeout
+2022-02-19 02:20:15.206971|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2022-02-19 02:20:15.208525|INFO    |PktHandler    |1  |Dropping client 75 because of resend timeout
+2022-02-19 02:51:24.382769|INFO    |VirtualServer |1  |client '[GFN] ST.Gary'(id:12) was added to channelgroup 'Channel Admin'(id:5) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:51:28.051840|INFO    |VirtualServer |1  |client 'ALM.Navarro'(id:18) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:51:31.099465|INFO    |VirtualServer |1  |client 'DG. Aguilar'(id:9) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:51:35.241763|INFO    |VirtualServer |1  |client 'SLP. Maya'(id:7) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:51:37.710763|INFO    |VirtualServer |1  |client 'SLP.Garcia'(id:17) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:51:40.172267|INFO    |VirtualServer |1  |client 'SLR. Rodo'(id:24) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-19 02:54:54.625584|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-02-19 02:54:54.625910|INFO    |PktHandler    |1  |Dropping client 67 because of resend timeout
+2022-02-19 04:06:50.954885|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-19 04:06:50.956109|INFO    |PktHandler    |1  |Dropping client 70 because of resend timeout
+2022-02-21 17:25:24.723816|INFO    |PktHandler    |1  |Dropping client 86 because of ping timeout 19 0 0
+2022-02-21 20:46:57.529720|INFO    |PktHandler    |1  |Dropping client 89 because of ping timeout 19 0 0
+2022-02-22 02:20:22.331771|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2022-02-22 02:20:22.335427|INFO    |PktHandler    |1  |Dropping client 115 because of resend timeout
+2022-02-22 03:34:39.488979|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-22 03:34:39.489245|INFO    |PktHandler    |1  |Dropping client 92 because of resend timeout
+2022-02-24 01:58:21.257955|INFO    |VirtualServer |1  |client 'SLP. ZaLszaLc'(id:19) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'Delta'(id:5)
+2022-02-24 01:58:26.208903|INFO    |VirtualServer |1  |client 'SLR. Rodo'(id:24) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-24 03:12:10.691619|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-02-24 03:12:10.692382|INFO    |PktHandler    |1  |Dropping client 131 because of resend timeout
+2022-02-27 22:30:19.540235|INFO    |VirtualServerBase|1  |stopped

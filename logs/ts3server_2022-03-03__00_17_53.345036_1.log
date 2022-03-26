@@ -1,0 +1,14 @@
+2022-03-03 00:17:54.227974|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-03-03 03:08:07.309970|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-03-03 03:08:07.312780|INFO    |PktHandler    |1  |Dropping client 12 because of resend timeout
+2022-03-05 02:01:58.712215|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-03-05 02:01:58.715362|INFO    |PktHandler    |1  |Dropping client 20 because of resend timeout
+2022-03-05 02:13:25.260591|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2022-03-05 02:21:01.108420|INFO    |PktHandler    |1  |Cleaning up connection because of 6 resends of COMMAND packet
+2022-03-05 02:21:01.108659|INFO    |PktHandler    |1  |Dropping client 26 because of resend timeout
+2022-03-05 02:21:43.597270|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2022-03-05 02:31:44.635817|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-03-05 02:31:44.636066|INFO    |PktHandler    |1  |Dropping client 25 because of resend timeout
+2022-03-05 02:55:17.331540|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-03-05 02:55:17.331828|INFO    |PktHandler    |1  |Dropping client 23 because of resend timeout
+2022-03-08 19:55:00.366298|INFO    |VirtualServerBase|1  |stopped

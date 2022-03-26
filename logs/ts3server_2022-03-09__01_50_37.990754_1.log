@@ -1,0 +1,18 @@
+2022-03-09 01:50:39.017551|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-03-19 01:24:15.632163|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2022-03-19 01:59:06.660636|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-03-19 01:59:06.660817|INFO    |PktHandler    |1  |Dropping client 23 because of resend timeout
+2022-03-24 02:21:53.342714|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-03-24 02:21:53.343095|INFO    |PktHandler    |1  |Dropping client 36 because of resend timeout
+2022-03-24 08:30:46.905748|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2022-03-26 01:14:04.043231|INFO    |VirtualServer |1  |client 'SLP Betancourt'(id:37) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo[GFN]'(id:3) in channel 'Alfa'(id:10)
+2022-03-26 02:08:44.569278|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-03-26 02:08:44.569796|INFO    |PktHandler    |1  |Dropping client 43 because of resend timeout
+2022-03-26 02:30:35.222101|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2022-03-26 02:30:35.222677|INFO    |PktHandler    |1  |Dropping client 47 because of resend timeout
+2022-03-26 02:59:33.616087|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-03-26 02:59:33.616314|INFO    |PktHandler    |1  |Dropping client 56 because of resend timeout
+2022-03-26 03:17:23.477012|INFO    |PktHandler    |1  |Dropping client 64 because of ping timeout 19 0 0
+2022-03-26 03:59:03.149181|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-03-26 03:59:03.149464|INFO    |PktHandler    |1  |Dropping client 48 because of resend timeout
+2022-03-26 04:04:54.823763|INFO    |VirtualServer |1  |client 'GRL. Coman'(id:39) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo[GFN]'(id:3) in channel 'lobby'(id:1)

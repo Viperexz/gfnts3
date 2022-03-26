@@ -1,0 +1,30 @@
+2022-01-28 22:15:54.901550|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-01-28 22:15:54.902054|WARNING |VirtualServer |1  |--------------------------------------------------------
+2022-01-28 22:15:54.902076|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2022-01-28 22:15:54.902087|WARNING |VirtualServer |1  |token=EvhtSYamTkTDRtleYJCcFYhDyCGxRDcXE958BnmM
+2022-01-28 22:15:54.902113|WARNING |VirtualServer |1  |--------------------------------------------------------
+2022-01-28 22:16:53.904423|INFO    |VirtualServer |1  |client 'TE.Clavijo'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2022-01-28 22:16:53.905039|INFO    |VirtualServer |1  |client 'TE.Clavijo'(id:3) used privilege key 'EvhtSYamTkTDRtleYJCcFYhDyCGxRDcXE958BnmM' and was added to servergroup 'Server Admin'(id:6)
+2022-01-28 23:36:44.217292|INFO    |VirtualServer |1  |client 'CD.Ibañez [G.F.N]'(id:4) was added to servergroup 'Server Admin'(id:6) by client 'TE.Clavijo'(id:3)
+2022-01-28 23:36:53.557508|INFO    |VirtualServer |1  |client 'TE.Clavijo'(id:3) was added to channelgroup 'Channel Admin'(id:5) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-01-29 01:53:45.648225|INFO    |VirtualServer |1  |client 'CS.Hoyos'(id:10) was added to channelgroup 'Channel Admin'(id:5) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-01-29 01:53:51.307290|INFO    |VirtualServer |1  |client 'CS.Hoyos'(id:10) was added to servergroup 'Server Admin'(id:6) by client 'TE.Clavijo'(id:3)
+2022-01-29 01:54:46.992509|INFO    |VirtualServer |1  |client 'CS.Gomez (GFN)'(id:13) was added to channelgroup 'Channel Admin'(id:5) by client 'TE.Clavijo'(id:3) in channel 'Delta'(id:5)
+2022-01-29 01:54:50.435289|INFO    |VirtualServer |1  |client 'CS.Gomez (GFN)'(id:13) was added to servergroup 'Normal'(id:7) by client 'TE.Clavijo'(id:3)
+2022-02-01 01:12:43.757001|INFO    |VirtualServer |1  |client 'SLR.Barrantes'(id:5) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-01 01:12:46.854086|INFO    |VirtualServer |1  |client 'DG. Goez'(id:6) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-01 01:24:50.293555|INFO    |VirtualServer |1  |client 'ST. Becerra'(id:14) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'lobby'(id:1)
+2022-02-01 01:41:17.544821|INFO    |VirtualServer |1  |client 'ALM.Tafu'(id:11) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-01 01:41:20.597915|INFO    |VirtualServer |1  |client 'ST. Becerra'(id:14) was added to channelgroup 'Operator'(id:6) by client 'TE.Clavijo'(id:3) in channel 'TaskForceRadio'(id:6)
+2022-02-03 02:05:40.754269|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-03 02:05:40.767485|INFO    |PktHandler    |1  |Dropping client 45 because of resend timeout
+2022-02-03 02:05:40.867822|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2022-02-03 02:05:40.867878|INFO    |PktHandler    |1  |Dropping client 42 because of resend timeout
+2022-02-03 02:32:46.347924|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-03 02:32:46.348188|INFO    |PktHandler    |1  |Dropping client 55 because of resend timeout
+2022-02-03 02:37:32.981808|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-03 02:37:32.982016|INFO    |PktHandler    |1  |Dropping client 47 because of resend timeout
+2022-02-03 02:49:38.917518|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-03 02:49:38.917748|INFO    |PktHandler    |1  |Dropping client 43 because of resend timeout
+2022-02-09 01:23:34.834027|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2022-02-09 01:23:34.836564|INFO    |PktHandler    |1  |Dropping client 72 because of resend timeout
